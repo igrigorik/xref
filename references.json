@@ -59,7 +59,7 @@
     "publisher": "W3C"
   },
   "CLIENT-HINTS" : {
-    "href" : "http://httpwg.org/http-extensions/client-hints.html",
+    "href" : "https://tools.ietf.org/html/draft-ietf-httpbis-client-hints",
     "title" : "HTTP Client Hints",
     "authors": ["Ilya Grigorik"],
     "publisher" : "IETF"
